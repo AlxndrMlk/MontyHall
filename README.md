@@ -8,6 +8,6 @@ This notebook presents a Monte Carlo simulation of Monty Hall problem. Feel free
 
 If you're only interested in results, voila:
 
-![Results](https://github.com/AlxndrMlk/MontyHall/plots/result_plot.png)
+![Results](https://github.com/AlxndrMlk/MontyHall/blob/master/plots/result_plot.png)
 
-If you have any questions or feel like sharing your thoughts - **feel free to contact me**.
+If you have any questions or feel like sharing your thoughts - **feel free to contact me** 😊
