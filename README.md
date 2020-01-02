@@ -2,7 +2,7 @@
 
 **Monty Hall problem** is a statistical problem inspired by a popular TV show and named after its host. You can find more information about the problem [here](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 
-This notebook presents a Monte Carlo simulation of Monty Hall problem. Feel free to use it.
+This notebook presents a pure Python / numpy Monte Carlo simulation of Monty Hall problem. Feel free to use it.
 
 ![Monty Hall problem](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Monty_Hall_Problem_-_Standard_probabilities.svg/220px-Monty_Hall_Problem_-_Standard_probabilities.svg.png)
 
