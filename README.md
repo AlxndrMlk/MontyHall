@@ -6,8 +6,6 @@ This notebook presents a Monte Carlo simulation of Monty Hall problem. Feel free
 
 ![Monty Hall problem](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Monty_Hall_Problem_-_Standard_probabilities.svg/220px-Monty_Hall_Problem_-_Standard_probabilities.svg.png)
 
-If you're only interested in results, voila:
-
-![Results](https://github.com/AlxndrMlk/MontyHall/blob/master/plots/result_plot.png)
+**Should you switch?** Click the notebook to get the answer!
 
 If you have any questions or feel like sharing your thoughts - **feel free to contact me** 😊
